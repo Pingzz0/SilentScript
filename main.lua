@@ -1,3 +1,5 @@
+-- XYVLua Obfuscation - Made by Pingz0
+
 return(function()
 local wlpOlwb=("")[("ch".."ar")];local j_bbj=("")[("by".."te")];local _pwpkdIhkO=bit32
 local hIkOxkbOq=table[("con".."cat")]
